@@ -1,5 +1,5 @@
 {
-  "name": "@gurkamalpsc/react-app-with-parceljs",
+  "name": "@gurkamalpsc/react-parceljs-boilerplate",
   "version": "1.0.0",
   "description": "",
   "main": "./src/index.js",
