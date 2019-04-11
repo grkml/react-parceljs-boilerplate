@@ -1,7 +1,7 @@
 {
   "name": "@gurkamalpsc/react-parceljs-boilerplate",
   "version": "1.0.0",
-  "description": "",
+  "description": "React app template using Parcel and Babel presets instead of Facebook's create-react-app CLI.",
   "main": "./src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
