@@ -1,6 +1,9 @@
-import image from "./img/image.png";
+import React from "react";
+import ReactDOM from "react-dom";
+import App from './App';
 
-console.log('hello world');
-document.getElementById("root").innerHTML = `
-    <h1>Hello World</h1>
-    <img src=${image}>`;
+if (module.hot) {
+  module.hot.accept()
+}
+
+ReactDOM.render(<App />, document.getElementById("root"));
