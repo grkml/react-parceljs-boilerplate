@@ -1,1 +1,2 @@
-console.log('hello world')
+console.log('hello world');
+document.getElementById("root").innerHTML = "<h1>Hello World</h1>";
